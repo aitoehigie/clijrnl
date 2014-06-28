@@ -1,0 +1,4 @@
+clijrnl
+=======
+
+Command line journal
